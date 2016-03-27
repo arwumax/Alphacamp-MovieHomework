@@ -55,16 +55,5 @@ class FirstViewController: UIViewController, UITableViewDataSource {
         }
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
 }
 
